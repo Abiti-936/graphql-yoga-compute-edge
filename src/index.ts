@@ -1,5 +1,4 @@
 import { createServer } from '@graphql-yoga/common';
-import type { YogaServer } from '@graphql-yoga/common';
 import { createRemoteSchema } from './schema';
 // import { useDisableIntrospection } from '@envelop/disable-introspection';
 // import { useDepthLimit } from '@envelop/depth-limit';
