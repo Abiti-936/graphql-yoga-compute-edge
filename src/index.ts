@@ -30,7 +30,7 @@ async function handleRequest(event: FetchEvent) {
       /* You Can UnComment useDepthLimit, if your need to set Query Depth limit */
       // useDepthLimit({ maxDepth: 5 }),
       /* You Can useDisableIntrospection, if your need to set Disable Introspection */
-      // useDisableIntrospection()
+      // useDisableIntrospection(),
     ],
   });
 
