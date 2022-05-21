@@ -1,0 +1,15 @@
+authors = ["amancoder28@gmail.com"]
+description = "fauna-graphql-compute-edge-example"
+language = "javascript"
+manifest_version = 2
+name = "fauna-graphql-compute-edge-example"
+service_id = ""
+
+[local_server]
+  [local_server.backends]
+    [local_server.backends.fauna-graphql]
+      url = "https://graphql.fauna.com/"
+  [local_server.dictionaries]
+    [local_server.dictionaries.secret]
+      file = "secret.json"
+      format = "json"
