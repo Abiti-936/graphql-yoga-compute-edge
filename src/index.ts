@@ -24,7 +24,7 @@ async function handleRequest(event: FetchEvent) {
 			origin: ['https://my-website.com'],
 			allowedHeaders: ['content-type', 'charset'],
 			methods: ['GET', 'HEAD', 'POST'],
-			maxAge: 86400,
+			maxAge: 86400
 		}, */
     plugins: [
       /* You Can UnComment useDepthLimit, if your need to set Query Depth limit */
