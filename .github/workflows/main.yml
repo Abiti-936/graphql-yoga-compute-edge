@@ -1,4 +1,4 @@
-name: Deploy Application
+name: Deploy to Fastly Compute@Edge
 on:
   push:
     branches: [main]
