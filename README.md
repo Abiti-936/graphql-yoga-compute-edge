@@ -1,3 +1,3 @@
-# Fauna Compute@Edge GraphQL API
+# Fastly Compute@Edge GraphQL Yoga Server
 
-### A GraphQL API built with Fastly Compute@Edge & [GraphQL Yoga](https://www.graphql-yoga.com/) to get Data from FaunaDB
+### A GraphQL Server built with [Fastly Compute@Edge](https://www.fastly.com/products/edge-compute) & [GraphQL Yoga](https://www.graphql-yoga.com/).
